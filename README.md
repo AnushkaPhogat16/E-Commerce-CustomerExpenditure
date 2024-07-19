@@ -1,5 +1,3 @@
-# E-Commerce-CustomerExpenditure
-
 # Predicting Customer Expenditure
 
 ## Project Overview
